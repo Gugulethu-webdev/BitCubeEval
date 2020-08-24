@@ -1,3 +1,7 @@
+You can view this project online from https://gugulethu-webdev.github.io/BitcubeEval/
+
+or follow the instructions below.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
