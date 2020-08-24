@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BitcubeEval/static/css/main.903dbdbb.chunk.css",
+    "main.js": "/BitcubeEval/static/js/main.c60fab6b.chunk.js",
+    "main.js.map": "/BitcubeEval/static/js/main.c60fab6b.chunk.js.map",
+    "runtime-main.js": "/BitcubeEval/static/js/runtime-main.1364bf71.js",
+    "runtime-main.js.map": "/BitcubeEval/static/js/runtime-main.1364bf71.js.map",
+    "static/js/2.8be8b1b3.chunk.js": "/BitcubeEval/static/js/2.8be8b1b3.chunk.js",
+    "static/js/2.8be8b1b3.chunk.js.map": "/BitcubeEval/static/js/2.8be8b1b3.chunk.js.map",
+    "index.html": "/BitcubeEval/index.html",
+    "precache-manifest.914fc22373c79b1a8ba2461941be0623.js": "/BitcubeEval/precache-manifest.914fc22373c79b1a8ba2461941be0623.js",
+    "service-worker.js": "/BitcubeEval/service-worker.js",
+    "static/css/main.903dbdbb.chunk.css.map": "/BitcubeEval/static/css/main.903dbdbb.chunk.css.map",
+    "static/js/2.8be8b1b3.chunk.js.LICENSE.txt": "/BitcubeEval/static/js/2.8be8b1b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1364bf71.js",
+    "static/js/2.8be8b1b3.chunk.js",
+    "static/css/main.903dbdbb.chunk.css",
+    "static/js/main.c60fab6b.chunk.js"
+  ]
+}
